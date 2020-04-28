@@ -1,0 +1,9 @@
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe.config
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.pdb
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csprojAssemblyReference.cache
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.Form1.resources
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.Properties.Resources.resources
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.exe
+C:\Users\Cyber\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.pdb
