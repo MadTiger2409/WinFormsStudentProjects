@@ -1,0 +1,11 @@
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Cyber\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\Cyber\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.Forms.LoginForm.resources
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.Forms.MainForm.resources
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.Forms.NewGameForm.resources
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\Cyber\source\repos\Library\Library\obj\Debug\Library.pdb
