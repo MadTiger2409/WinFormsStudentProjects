@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\GameObject.cs" />
-    <Compile Include="Classes\Library.cs" />
+    <Compile Include="Classes\GameLibrary.cs" />
     <Compile Include="Classes\LibraryObject.cs" />
     <Compile Include="Forms\LoginForm.cs">
       <SubType>Form</SubType>

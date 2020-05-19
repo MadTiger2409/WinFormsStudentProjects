@@ -63,6 +63,7 @@
             this.btnAddGame.TabIndex = 2;
             this.btnAddGame.Text = "Dodaj";
             this.btnAddGame.UseVisualStyleBackColor = true;
+            this.btnAddGame.Click += new System.EventHandler(this.btnAddGame_Click);
             // 
             // btnDeleteGame
             // 
@@ -73,6 +74,7 @@
             this.btnDeleteGame.TabIndex = 3;
             this.btnDeleteGame.Text = "Usuń";
             this.btnDeleteGame.UseVisualStyleBackColor = true;
+            this.btnDeleteGame.Click += new System.EventHandler(this.btnDeleteGame_Click);
             // 
             // MainForm
             // 
