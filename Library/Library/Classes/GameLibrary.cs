@@ -33,7 +33,7 @@ namespace Library.Classes
 
         public void SaveGamesToFile()
         {
-            using (StreamWriter sw = new StreamWriter(@"c\games.txt"))
+            using (StreamWriter sw = new StreamWriter(@"c:\games.txt"))
             {
                 foreach (var game in games)
                 {

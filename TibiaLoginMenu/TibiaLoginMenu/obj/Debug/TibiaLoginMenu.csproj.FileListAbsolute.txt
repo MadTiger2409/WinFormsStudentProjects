@@ -1,0 +1,9 @@
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\bin\Debug\TibiaLoginMenu.exe.config
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\bin\Debug\TibiaLoginMenu.exe
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\bin\Debug\TibiaLoginMenu.pdb
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.csprojAssemblyReference.cache
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.Properties.Resources.resources
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.exe
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.pdb
+C:\Users\Cyber\source\repos\TibiaLoginMenu\TibiaLoginMenu\obj\Debug\TibiaLoginMenu.Tibia.resources

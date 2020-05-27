@@ -121,6 +121,7 @@
             this.btnClean.TabIndex = 8;
             this.btnClean.Text = "Wyczyść";
             this.btnClean.UseVisualStyleBackColor = true;
+            this.btnClean.Click += new System.EventHandler(this.btnClean_Click);
             // 
             // btnSave
             // 
@@ -131,6 +132,7 @@
             this.btnSave.TabIndex = 9;
             this.btnSave.Text = "Zapisz";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // NewGameForm
             // 
